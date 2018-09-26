@@ -1,0 +1,12 @@
+com\jnshu\controller\TestResponsbodyController.class
+com\jnshu\entity\ExceptionEnums.class
+com\jnshu\entity\MyException.class
+com\jnshu\entity\StateMessage.class
+com\jnshu\controller\TestJsonTagLibController.class
+com\jnshu\mapper\StudentMapper.class
+com\jnshu\entity\Page.class
+com\jnshu\StudentDynaSqlProvider.class
+com\jnshu\mapper\SecondStudentMapper.class
+com\jnshu\controller\StudentController.class
+com\jnshu\mapper\ThirdStudentMapper.class
+com\jnshu\entity\Student.class
